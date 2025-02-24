@@ -1,2 +1,2 @@
 # React
-By Harsh Tiwari
+By Aditya Kumar
